@@ -1,0 +1,49 @@
+body{
+    background-color: #222;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#chart{
+    width: fit-content; 
+    height: 500px;
+    margin: auto;
+    color : #c6d9ee
+}
+
+.btn-vert{
+    background-color: #0D6338;
+    color: #fff;
+    padding: 5px 15px;
+    border-width: 0;
+    font-size: 18px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.btn-rouge{
+    background-color: #850606;
+    color: #fff;
+    padding: 5px 15px;
+    border-width: 0;
+    font-size: 18px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.btn-bleu{
+    background-color: #376bc0;
+    color: #fff;
+    padding: 5px 15px;
+    border-width: 0;
+    font-size: 18px;
+    margin-left: 30px;
+    margin-right: 0;
+    cursor: pointer;
+}
+
+legend{
+    color: white;
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
